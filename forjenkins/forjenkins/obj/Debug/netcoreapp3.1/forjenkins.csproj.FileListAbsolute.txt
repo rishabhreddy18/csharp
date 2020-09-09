@@ -1,0 +1,13 @@
+C:\Users\1\source\repos\forjenkins\forjenkins\bin\Debug\netcoreapp3.1\forjenkins.exe
+C:\Users\1\source\repos\forjenkins\forjenkins\bin\Debug\netcoreapp3.1\forjenkins.deps.json
+C:\Users\1\source\repos\forjenkins\forjenkins\bin\Debug\netcoreapp3.1\forjenkins.runtimeconfig.json
+C:\Users\1\source\repos\forjenkins\forjenkins\bin\Debug\netcoreapp3.1\forjenkins.runtimeconfig.dev.json
+C:\Users\1\source\repos\forjenkins\forjenkins\bin\Debug\netcoreapp3.1\forjenkins.dll
+C:\Users\1\source\repos\forjenkins\forjenkins\bin\Debug\netcoreapp3.1\forjenkins.pdb
+C:\Users\1\source\repos\forjenkins\forjenkins\obj\Debug\netcoreapp3.1\forjenkins.csprojAssemblyReference.cache
+C:\Users\1\source\repos\forjenkins\forjenkins\obj\Debug\netcoreapp3.1\forjenkins.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\forjenkins\forjenkins\obj\Debug\netcoreapp3.1\forjenkins.AssemblyInfo.cs
+C:\Users\1\source\repos\forjenkins\forjenkins\obj\Debug\netcoreapp3.1\forjenkins.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\forjenkins\forjenkins\obj\Debug\netcoreapp3.1\forjenkins.dll
+C:\Users\1\source\repos\forjenkins\forjenkins\obj\Debug\netcoreapp3.1\forjenkins.pdb
+C:\Users\1\source\repos\forjenkins\forjenkins\obj\Debug\netcoreapp3.1\forjenkins.genruntimeconfig.cache
